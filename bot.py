@@ -44,7 +44,7 @@ def send_tweet(text):
     print(res)
 
 def main():
-    project_folder = os.path.expanduser('C:/Users/Administrator/Desktop/nexabot')  #.env file location
+    project_folder = os.path.expanduser('C:/Users/Administrator/Desktop/nexatweetbot')  #.env file location
     load_dotenv(os.path.join(project_folder, '.env'))
 
     sentence = get_sentence_from_gpt()
