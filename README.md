@@ -1,7 +1,14 @@
 # nexatweetbot
 A bot that tweets about NEXA using the OpenAI API and Tweepy.
 
-How to use ?
+# Requirements 
+
+```
+pip install python-dotenv
+pip install openai==0.28
+pip install tweepy
+```
+# How to use ?
 
 Edit your API keys in the .ENV file.
 
