@@ -1,4 +1,4 @@
-# nexabot
+# nexatweetbot
 A bot that tweets about NEXA using the OpenAI API and Tweepy.
 
 How to use ?
